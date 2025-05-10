@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, I'm Umaru Syahid 👋
 
 <!--
 **fallennsyahid/fallennsyahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on SMK Negeri 1 Ciomas
+- 🌱 I’m currently learning [React JS](https://react.dev/) Library
+
+- ![Morning Sunshine](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlkM2VtNGVxdG5tb3FyNWJrYzlnenF2bW00YXRzYmI3dW5mdTVibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRaJJvCo6jq1ggE/giphy.gif)
